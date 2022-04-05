@@ -1,12 +1,18 @@
 <?php
 
     $line = explode(" ", fgets(STDIN));
+    $aux = $line;
 
-    $sort = sort($line);
+    sort($line, SORT_REGULAR);
+    for($i=0;$i<count($line);$i++){
+        echo $line[$i];
+        echo "\n";
+    }
 
-    print_r($line,true);
+    echo "\n";
 
-    echo "\n\n";
-
-    print_r($sort,true);
- 
+    for($i=0;$i<count($aux);$i++){
+        echo $aux[$i];
+        echo "\n";
+    }
+    
