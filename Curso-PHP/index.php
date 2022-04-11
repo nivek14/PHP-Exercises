@@ -34,6 +34,13 @@
                         <li><a href="exercicio.php?dir=tipos&file=bool">Tipo bool</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>Módulo 03</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis">Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=equacao_ex">Equação exe.</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
