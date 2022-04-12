@@ -39,6 +39,10 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis">Variaveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=equacao_ex">Equação exe.</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=var_var">Variáveis Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=var_referencia">Valor referência</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
             </nav>
