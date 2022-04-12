@@ -45,6 +45,12 @@
                         <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
+                <div class="modulo roxo">
+                    <h3>Módulo 03</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">Condicionais If/else</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
