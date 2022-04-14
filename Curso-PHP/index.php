@@ -51,6 +51,9 @@
                         <li><a href="exercicio.php?dir=controle&file=if_else">Condicionais If/else</a></li>
                         <li><a href="exercicio.php?dir=controle&file=ope_relacionais">Ope. relacionais</a></li>
                         <li><a href="exercicio.php?dir=controle&file=ope_logicos">Ope. lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=exer">Exercicio</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operador ternário</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
                     </ul>
                 </div>
             </nav>
