@@ -62,6 +62,11 @@
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=basico">Básico array</a></li>
                         <li><a href="exercicio.php?dir=controle&file=mapa">Mapa</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operacoes">Operações</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=multidimensao">Multidimencionais</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=array_const">Arrays constantes</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=get">GET</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=post">POST</a></li>
                     </ul>
                 </div>
             </nav>
