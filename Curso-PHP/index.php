@@ -57,6 +57,13 @@
                         <li><a href="exercicio.php?dir=controle&file=switch_exer">Switch exercicio</a></li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>Módulo 04</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=basico">Básico array</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=mapa">Mapa</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
