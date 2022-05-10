@@ -18,5 +18,5 @@
     $contas = [$conta1, $conta2, $conta3];
 
     foreach($contas as $conta){
-        echo $conta["titular"] . PHP_EOL;
+        echo $conta["saldo"] . PHP_EOL;
     }
